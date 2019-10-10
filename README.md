@@ -1,0 +1,2 @@
+# secondexample
+solo class activity
